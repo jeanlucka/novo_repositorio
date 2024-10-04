@@ -45,3 +45,12 @@ button:hover {
     margin-top: 20px;
     font-size: 18px;
 }
+
+style.css
+#message.right {
+    color: #008000;
+}
+
+#message.wrong {
+    color: #ffa500;
+}
